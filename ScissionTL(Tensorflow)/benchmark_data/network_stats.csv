@@ -1,0 +1,3 @@
+source,destination,ping(ms),bandwidth(Mbps)
+tx2_gpu,ampere,27.4,58.8
+tx2_gpu,titan_cpu,27.4,58.8

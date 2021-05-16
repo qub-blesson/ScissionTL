@@ -1,0 +1,3 @@
+source,destination,ping(ms),bandwidth(Mbps)
+tx2_gpu,ampere,27.4,60
+tx2_cpu,ampere,27.4,60
