@@ -20,7 +20,6 @@ You need to specify the device's name on the first argument.
 Define the model name that you want to benchmark. You can check the model names below. 
 -server_name is a server URL that consists of URL:8001 (because we use the gRPC). 
 To disable the GPU, set the -dc option. 
-
 Before executing the above command, on the edge side, you need to preload the divided models.
 We assume that you have a perf analyzer in the /tritonserver/clients/bin directory. 
 
