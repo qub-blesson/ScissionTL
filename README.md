@@ -2,7 +2,7 @@
 
 ## About the research
 
-You can check original Scission github at here "[github link](https://github.com/qub-blesson/scission#scission-a-tool-for-maximising-performance-of-deep-neural-networks-in-edge-computing)"
+You can check original Scission github at here "[Scission:github link](https://github.com/qub-blesson/scission#scission-a-tool-for-maximising-performance-of-deep-neural-networks-in-edge-computing)"
 
 <img src="images/overall_design.png" alt="overall design" width="500"/>
 
