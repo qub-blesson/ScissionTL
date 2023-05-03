@@ -522,7 +522,7 @@ for index, split_point in enumerate(split_points):
         
         edge_results.append(result)
     else:
-        pass
+        edge_results.append(result)
         
 os.chdir(current_path)
 save_data(edge_results, "edge", args.server, application)
